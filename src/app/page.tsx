@@ -98,7 +98,7 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
-        <Button>Click me</Button>
+        <Button>Click me 23</Button>
       </footer>
     </div>
   );
